@@ -19,11 +19,11 @@ body{
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .d_flex{
-	display: -webkit-box;
-	display: -moz-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
-	display: flex;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
 }
 .mhl{
     flex-wrap: wrap;
@@ -43,6 +43,7 @@ body{
 .pbs{
     grid-area: 1 / 1 / 4 / 2 ;
     font-size: 5em;
+    text-align: center;
 }
 .icna{
     grid-area: 1 / 2 / 2 / 4 ;
@@ -208,10 +209,10 @@ input:focus{
     width: 50%;
     min-width: 300px;
     z-index: 3;
-    background: #ffffff14;
+    background: #ffffffc9;
     margin: 0;
     padding: 20px;
-    box-shadow: 0 3px 6px rgb(0 0 0 / 6%);
+    box-shadow: 0 15px 20px rgb(0 0 0 / 25%);
     border-radius: 0 0 10px 10px;
 }
 .menu li{
@@ -220,8 +221,9 @@ input:focus{
 }
 .menu li a{
     font-weight: 700;
-    color: #fff;
+    color: #212121;
     font-size: 1.2em;
+    text-decoration: none;
 }
 .center{
     background: #fff;
@@ -239,7 +241,7 @@ input:focus{
     border-collapse: collapse;
 }
 .cota th{
-     color: #130F26;
+    color: #130F26;
 }
 .cota td,
 .cota th{
@@ -254,4 +256,37 @@ xmp{
     padding: 25px;
     border-radius: 10px;
     white-space: normal;
+}
+.btnWrapper{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.smpCode{
+    width: 50%;
+}
+.smpCode xmp {
+    white-space: pre-line;
+}
+.btn {
+    padding: 10px 25px;
+    background: #7966c9;
+    color: #fff;
+    font-size: 2em;
+    border-radius: 10px;
+    border-bottom: 5px solid #5840bb;
+    cursor: pointer;
+    transition: all .1s ease;
+}
+.btn:active{
+    border-bottom: 1px solid #5840bb;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
 }
