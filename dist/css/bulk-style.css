@@ -1,0 +1,1160 @@
+[class^="iconlyBulk-"], [class*=" iconlyBulk-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'iconly' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-weight: 900;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.iconlyBulk-Arrow-Down .path1:before {
+    content: "\e900";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Down .path2:before {
+    content: "\e901";
+    margin-left: -1em;
+
+}
+.iconlyBulk-User2 .path1:before {
+    content: "\e902";
+
+}
+.iconlyBulk-User2 .path2:before {
+    content: "\e903";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-User2 .path3:before {
+    content: "\e904";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-User2 .path4:before {
+    content: "\e905";
+    margin-left: -1em;
+
+}
+.iconlyBulk-User3 .path1:before {
+    content: "\e906";
+
+}
+.iconlyBulk-User3 .path2:before {
+    content: "\e907";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-User3 .path3:before {
+    content: "\e908";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-User3 .path4:before {
+    content: "\e909";
+    margin-left: -1em;
+
+}
+.iconlyBulk-User3 .path5:before {
+    content: "\e90a";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-User3 .path6:before {
+    content: "\e90b";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Activity .path1:before {
+    content: "\e90c";
+
+}
+.iconlyBulk-Activity .path2:before {
+    content: "\e90d";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Add-User .path1:before {
+    content: "\e90e";
+
+}
+.iconlyBulk-Add-User .path2:before {
+    content: "\e90f";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Add-User .path3:before {
+    content: "\e910";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Down-2 .path1:before {
+    content: "\e911";
+
+}
+.iconlyBulk-Arrow-Down-2 .path2:before {
+    content: "\e912";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Down-3 .path1:before {
+    content: "\e913";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Down-3 .path2:before {
+    content: "\e914";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Down-Circle .path1:before {
+    content: "\e915";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Down-Circle .path2:before {
+    content: "\e916";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Down-Square .path1:before {
+    content: "\e917";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Down-Square .path2:before {
+    content: "\e918";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Left-2 .path1:before {
+    content: "\e919";
+
+}
+.iconlyBulk-Arrow-Left-2 .path2:before {
+    content: "\e91a";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Left-3 .path1:before {
+    content: "\e91b";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Left-3 .path2:before {
+    content: "\e91c";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Left-Circle .path1:before {
+    content: "\e91d";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Left-Circle .path2:before {
+    content: "\e91e";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Left-Square .path1:before {
+    content: "\e91f";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Left-Square .path2:before {
+    content: "\e920";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Left .path1:before {
+    content: "\e921";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Left .path2:before {
+    content: "\e922";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Right-2 .path1:before {
+    content: "\e923";
+
+}
+.iconlyBulk-Arrow-Right-2 .path2:before {
+    content: "\e924";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Right-3 .path1:before {
+    content: "\e925";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Right-3 .path2:before {
+    content: "\e926";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Right-Circle .path1:before {
+    content: "\e927";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Right-Circle .path2:before {
+    content: "\e928";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Right-Square .path1:before {
+    content: "\e929";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Right-Square .path2:before {
+    content: "\e92a";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Right .path1:before {
+    content: "\e92b";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Right .path2:before {
+    content: "\e92c";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Up-2 .path1:before {
+    content: "\e92d";
+
+}
+.iconlyBulk-Arrow-Up-2 .path2:before {
+    content: "\e92e";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Up-3 .path1:before {
+    content: "\e92f";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Up-3 .path2:before {
+    content: "\e930";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Up-Circle .path1:before {
+    content: "\e931";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Up-Circle .path2:before {
+    content: "\e932";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Up-Square .path1:before {
+    content: "\e933";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Up-Square .path2:before {
+    content: "\e934";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Arrow-Up .path1:before {
+    content: "\e935";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Arrow-Up .path2:before {
+    content: "\e936";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Bag-2 .path1:before {
+    content: "\e937";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Bag-2 .path2:before {
+    content: "\e938";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Bag .path1:before {
+    content: "\e939";
+
+}
+.iconlyBulk-Bag .path2:before {
+    content: "\e93a";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Bookmark .path1:before {
+    content: "\e93b";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Bookmark .path2:before {
+    content: "\e93c";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Buy .path1:before {
+    content: "\e93d";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Buy .path2:before {
+    content: "\e93e";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Calendar .path1:before {
+    content: "\e93f";
+
+}
+.iconlyBulk-Calendar .path2:before {
+    content: "\e940";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Calendar .path3:before {
+    content: "\e941";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Calendar .path4:before {
+    content: "\e942";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Call-Missed .path1:before {
+    content: "\e943";
+
+}
+.iconlyBulk-Call-Missed .path2:before {
+    content: "\e944";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Call-Silent .path1:before {
+    content: "\e945";
+
+}
+.iconlyBulk-Call-Silent .path2:before {
+    content: "\e946";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Call-Silent .path3:before {
+    content: "\e947";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Call:before {
+    content: "\e948";
+}
+.iconlyBulk-Calling .path1:before {
+    content: "\e949";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Calling .path2:before {
+    content: "\e94a";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Calling .path3:before {
+    content: "\e94b";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Camera .path1:before {
+    content: "\e94c";
+
+}
+.iconlyBulk-Camera .path2:before {
+    content: "\e94d";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Category .path1:before {
+    content: "\e94e";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Category .path2:before {
+    content: "\e94f";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Chart .path1:before {
+    content: "\e950";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Chart .path2:before {
+    content: "\e951";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Chart .path3:before {
+    content: "\e952";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Chart .path4:before {
+    content: "\e953";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Chat .path1:before {
+    content: "\e954";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Chat .path2:before {
+    content: "\e955";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Close-Square .path1:before {
+    content: "\e956";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Close-Square .path2:before {
+    content: "\e957";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Danger .path1:before {
+    content: "\e958";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Danger .path2:before {
+    content: "\e959";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Delete .path1:before {
+    content: "\e95a";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Delete .path2:before {
+    content: "\e95b";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Discount .path1:before {
+    content: "\e95c";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Discount .path2:before {
+    content: "\e95d";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Discovery .path1:before {
+    content: "\e95e";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Discovery .path2:before {
+    content: "\e95f";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Document .path1:before {
+    content: "\e960";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Document .path2:before {
+    content: "\e961";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Download .path1:before {
+    content: "\e962";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Download .path2:before {
+    content: "\e963";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Edit-Square .path1:before {
+    content: "\e964";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Edit-Square .path2:before {
+    content: "\e965";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Edit .path1:before {
+    content: "\e966";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Edit .path2:before {
+    content: "\e967";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Edit .path3:before {
+    content: "\e968";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Filter-2 .path1:before {
+    content: "\e969";
+
+}
+.iconlyBulk-Filter-2 .path2:before {
+    content: "\e96a";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Filter .path1:before {
+    content: "\e96b";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Filter .path2:before {
+    content: "\e96c";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Filter .path3:before {
+    content: "\e96d";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Filter .path4:before {
+    content: "\e96e";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Folder .path1:before {
+    content: "\e96f";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Folder .path2:before {
+    content: "\e970";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Game .path1:before {
+    content: "\e971";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Game .path2:before {
+    content: "\e972";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Graph .path1:before {
+    content: "\e973";
+
+}
+.iconlyBulk-Graph .path2:before {
+    content: "\e974";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Heart .path1:before {
+    content: "\e975";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Heart .path2:before {
+    content: "\e976";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Heart .path3:before {
+    content: "\e977";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Hide .path1:before {
+    content: "\e978";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Hide .path2:before {
+    content: "\e979";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Home:before {
+    content: "\e97a";
+}
+.iconlyBulk-Image-2 .path1:before {
+    content: "\e97b";
+
+}
+.iconlyBulk-Image-2 .path2:before {
+    content: "\e97c";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Image-2 .path3:before {
+    content: "\e97d";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Image .path1:before {
+    content: "\e97e";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Image .path2:before {
+    content: "\e97f";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Info-Circle .path1:before {
+    content: "\e980";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Info-Circle .path2:before {
+    content: "\e981";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Info-Square .path1:before {
+    content: "\e982";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Info-Square .path2:before {
+    content: "\e983";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Location .path1:before {
+    content: "\e984";
+
+}
+.iconlyBulk-Location .path2:before {
+    content: "\e985";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Lock .path1:before {
+    content: "\e986";
+
+}
+.iconlyBulk-Lock .path2:before {
+    content: "\e987";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Login .path1:before {
+    content: "\e988";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Login .path2:before {
+    content: "\e989";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Logout .path1:before {
+    content: "\e98a";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Logout .path2:before {
+    content: "\e98b";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Message .path1:before {
+    content: "\e98c";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Message .path2:before {
+    content: "\e98d";
+    margin-left: -1em;
+
+}
+.iconlyBulk-More-Circle .path1:before {
+    content: "\e98e";
+
+    opacity: 0.4;
+}
+.iconlyBulk-More-Circle .path2:before {
+    content: "\e98f";
+    margin-left: -1em;
+
+}
+.iconlyBulk-More-Square .path1:before {
+    content: "\e990";
+
+    opacity: 0.4;
+}
+.iconlyBulk-More-Square .path2:before {
+    content: "\e991";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Notification .path1:before {
+    content: "\e992";
+
+}
+.iconlyBulk-Notification .path2:before {
+    content: "\e993";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Download .path1:before {
+    content: "\e994";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Download .path2:before {
+    content: "\e995";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Download .path3:before {
+    content: "\e996";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Paper-Fail .path1:before {
+    content: "\e997";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Fail .path2:before {
+    content: "\e998";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Fail .path3:before {
+    content: "\e999";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Paper-Negative .path1:before {
+    content: "\e99a";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Negative .path2:before {
+    content: "\e99b";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Negative .path3:before {
+    content: "\e99c";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Paper-Plus .path1:before {
+    content: "\e99d";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Plus .path2:before {
+    content: "\e99e";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Plus .path3:before {
+    content: "\e99f";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Paper-Upload .path1:before {
+    content: "\e9a0";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Upload .path2:before {
+    content: "\e9a1";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper-Upload .path3:before {
+    content: "\e9a2";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Paper .path1:before {
+    content: "\e9a3";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper .path2:before {
+    content: "\e9a4";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Paper .path3:before {
+    content: "\e9a5";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Password .path1:before {
+    content: "\e9a6";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Password .path2:before {
+    content: "\e9a7";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Play .path1:before {
+    content: "\e9a8";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Play .path2:before {
+    content: "\e9a9";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Plus .path1:before {
+    content: "\e9aa";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Plus .path2:before {
+    content: "\e9ab";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Profile .path1:before {
+    content: "\e9ac";
+
+}
+.iconlyBulk-Profile .path2:before {
+    content: "\e9ad";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Scan .path1:before {
+    content: "\e9ae";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Scan .path2:before {
+    content: "\e9af";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Search .path1:before {
+    content: "\e9b0";
+
+}
+.iconlyBulk-Search .path2:before {
+    content: "\e9b1";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Send .path1:before {
+    content: "\e9b2";
+
+}
+.iconlyBulk-Send .path2:before {
+    content: "\e9b3";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Setting .path1:before {
+    content: "\e9b4";
+
+}
+.iconlyBulk-Setting .path2:before {
+    content: "\e9b5";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Shield-Done .path1:before {
+    content: "\e9b6";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Shield-Done .path2:before {
+    content: "\e9b7";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Shield-Fail .path1:before {
+    content: "\e9b8";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Shield-Fail .path2:before {
+    content: "\e9b9";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Show .path1:before {
+    content: "\e9ba";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Show .path2:before {
+    content: "\e9bb";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Star .path1:before {
+    content: "\e9bc";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Star .path2:before {
+    content: "\e9bd";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Swap .path1:before {
+    content: "\e9be";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Swap .path2:before {
+    content: "\e9bf";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Swap .path3:before {
+    content: "\e9c0";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Swap .path4:before {
+    content: "\e9c1";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Tick-Square .path1:before {
+    content: "\e9c2";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Tick-Square .path2:before {
+    content: "\e9c3";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Ticket-Star .path1:before {
+    content: "\e9c4";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Ticket-Star .path2:before {
+    content: "\e9c5";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Ticket .path1:before {
+    content: "\e9c6";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Ticket .path2:before {
+    content: "\e9c7";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Time-Circle .path1:before {
+    content: "\e9c8";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Time-Circle .path2:before {
+    content: "\e9c9";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Time-Square .path1:before {
+    content: "\e9ca";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Time-Square .path2:before {
+    content: "\e9cb";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Unlock .path1:before {
+    content: "\e9cc";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Unlock .path2:before {
+    content: "\e9cd";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Upload .path1:before {
+    content: "\e9ce";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Upload .path2:before {
+    content: "\e9cf";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Video .path1:before {
+    content: "\e9d0";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Video .path2:before {
+    content: "\e9d1";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Voice-2 .path1:before {
+    content: "\e9d2";
+
+}
+.iconlyBulk-Voice-2 .path2:before {
+    content: "\e9d3";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Voice .path1:before {
+    content: "\e9d4";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Voice .path2:before {
+    content: "\e9d5";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Volume-Down .path1:before {
+    content: "\e9d6";
+
+}
+.iconlyBulk-Volume-Down .path2:before {
+    content: "\e9d7";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Volume-Off .path1:before {
+    content: "\e9d8";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Volume-Off .path2:before {
+    content: "\e9d9";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Volume-Up .path1:before {
+    content: "\e9da";
+
+}
+.iconlyBulk-Volume-Up .path2:before {
+    content: "\e9db";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Volume-Up .path3:before {
+    content: "\e9dc";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Wallet .path1:before {
+    content: "\e9dd";
+
+}
+.iconlyBulk-Wallet .path2:before {
+    content: "\e9de";
+    margin-left: -1em;
+
+    opacity: 0.4;
+}
+.iconlyBulk-Wallet .path3:before {
+    content: "\e9df";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Work .path1:before {
+    content: "\e9e0";
+
+    opacity: 0.4;
+}
+.iconlyBulk-Work .path2:before {
+    content: "\e9e1";
+    margin-left: -1em;
+
+}
+.iconlyBulk-Work .path3:before {
+    content: "\e9e2";
+    margin-left: -1em;
+
+}
